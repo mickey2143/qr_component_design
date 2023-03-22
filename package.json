@@ -1,0 +1,12 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "A component design",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "qr_component_design"
+  },
+  "author": "michaelani",
+  "license": "ISC"
+}
